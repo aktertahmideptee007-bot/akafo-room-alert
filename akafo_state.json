@@ -1,0 +1,358 @@
+{
+  "78db3fff-b96c-4a06-93f5-e78830da8dcf": {
+    "id": "78db3fff-b96c-4a06-93f5-e78830da8dcf",
+    "object_id": "582-Sammelobjekt",
+    "title": "Eulenbaumstraße 243-253: 2-Raum-Wohnung für Paare",
+    "description": "",
+    "address": {
+      "street": "Eulenbaumstraße",
+      "house_number": "243-253",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Eulenbaumstraße 243-253, 44801 Bochum"
+    },
+    "details": {
+      "size": "54.00",
+      "rooms": "1.0",
+      "rent": "383.00",
+      "rent_total": "383.00",
+      "rent_range": "646",
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_d8936fd4-aaa1-4fa7-9014-36e2e0902715.jpg",
+        "title": "Zimmer (4)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_a193fe5f-8ca1-4e1a-9065-10700a7cf64f.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_0a05c893-99f1-49cd-95a8-e09a50e31e03.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_2196c814-862d-47e0-b2cf-feb42b700192.jpg",
+        "title": "Zimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_88735030-b265-4a30-af07-bf0566e33ce1.jpg",
+        "title": "Zimmer (5)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_c97c9175-99d1-4b22-9555-0087ee2e5223.jpg",
+        "title": "Küche",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_ec761d15-cc8d-4242-aa68-0880063d98c4.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_e07f5f4b-2d7b-487e-a1e4-7aa638456e20.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_be66cd2c-6cfa-4ae6-a9f0-ce5c061f11dd.jpg",
+        "title": "Badezimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/78db3fff-b96c-4a06-93f5-e78830da8dcf/akafoe_bochum_a66e4a8b-c78f-4bc1-96a1-c758e80f7ab5.jpg",
+        "title": "Eulenbaumstr. 243-253",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-09-16",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-08-09T15:00:19+00:00"
+  },
+  "e5d61a44-0122-4683-9e66-a1bfdc73efae": {
+    "id": "e5d61a44-0122-4683-9e66-a1bfdc73efae",
+    "object_id": "578-Sammelobjekt",
+    "title": "Wodanstraße 7a - 7f - Wohnungsangebot für Studierende der Westfälischen Hochschule in Gelsenkirchen",
+    "description": "",
+    "address": {
+      "street": "Wodanstraße",
+      "house_number": "7a - 7f",
+      "postal_code": "45891",
+      "city": "Gelsenkirchen",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Wodanstraße 7a - 7f, 45891 Gelsenkirchen"
+    },
+    "details": {
+      "size": "0.00",
+      "rooms": "1.0",
+      "rent": "0.00",
+      "rent_total": "0.00",
+      "rent_range": null,
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_e7079516-c7b4-4168-b3a1-ea0d44a30c09.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_bceb60ef-87c2-475f-892e-e6caae6fb9b2.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_4c35cc63-bae6-4c0e-a1f6-acb3cd9a0012.jpg",
+        "title": "Zimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_13c55686-251c-4f78-9cd1-5283b4db48a1.jpg",
+        "title": "Küche (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_cfbedd0e-9c3c-40b8-959f-a4b97f47e9c5.jpg",
+        "title": "Küche (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_647afe88-d218-455d-b9bc-7bfccab3dae0.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_d4a7448e-d996-4af3-bf20-059dc4c9837f.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_0e65ea20-48af-4456-8ee2-6ca6ef8b4807.jpg",
+        "title": "Balkon",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/e5d61a44-0122-4683-9e66-a1bfdc73efae/akafoe_bochum_73c0fe03-b540-46ff-8e92-4b84474df1a3.jpg",
+        "title": "Wodanstraße 7a-7f",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Dennis Bauch",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-09-03",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-08-09T15:00:19+00:00"
+  },
+  "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
+    "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
+    "object_id": "588-Sammelobjekt",
+    "title": "Campusallee 4 - Wohnungsangebot für Studierende der Hochschule Bochum in Heiligenhaus",
+    "description": "",
+    "address": {
+      "street": "Campusallee",
+      "house_number": "4",
+      "postal_code": "42579",
+      "city": "Heiligenhaus",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Campusallee 4, 42579 Heiligenhaus"
+    },
+    "details": {
+      "size": "0.00",
+      "rooms": "1.0",
+      "rent": "0.00",
+      "rent_total": "0.00",
+      "rent_range": "370,00 EUR",
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_90994a09-adcd-4b21-8f84-98e14c07c1b1.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_6ae2ada4-4fc7-43aa-b3ae-816a2680bd83.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_c02ab108-23cd-48df-be7a-a2f983396556.jpg",
+        "title": "Küche (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_d285872b-16e5-4ae1-af84-33745980b533.jpg",
+        "title": "Küche (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_d8531f17-f716-4d35-a260-5081d027e5f8.jpg",
+        "title": "Küche (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_c8d22b4c-662d-4f5d-a5d9-1f784affa591.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_10a611c6-c4cb-4d74-931b-89967d3a005a.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_0fbecf07-a2ba-425e-b314-ed910462e81d.jpg",
+        "title": "Badezimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/66fbfe8e-f1e9-48db-9466-d361ec3e9178/akafoe_bochum_538eaead-c537-4a2f-8c1e-b615eed51bb0.jpg",
+        "title": "Campusalle 2-4",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Dennis Bauch",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-08-05",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-08-09T15:00:19+00:00"
+  },
+  "48ca8709-6004-4254-a430-afb27a69d901": {
+    "id": "48ca8709-6004-4254-a430-afb27a69d901",
+    "object_id": "585-Sammelobjekt",
+    "title": "Benölkenplatz 3 - Wohnungsangebot für Studierende der Westfälischen Hochschule in Bocholt",
+    "description": "",
+    "address": {
+      "street": "Benölkenplatz",
+      "house_number": "3",
+      "postal_code": "46399",
+      "city": "Bocholt",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Benölkenplatz 3, 46399 Bocholt"
+    },
+    "details": {
+      "size": "0.00",
+      "rooms": "1.0",
+      "rent": "0.00",
+      "rent_total": "0.00",
+      "rent_range": "270,00 - 370,00 EUR",
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_5ad2c2c3-ffb4-46ad-be46-1d77a162b2c0.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_90f5d505-37d7-4ef9-a218-8d6be6315a61.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_e61917e4-68f3-464a-80c9-888d735dc576.jpg",
+        "title": "Küche (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_44457961-d406-441e-8e39-41498e745b9e.jpg",
+        "title": "Küche (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_77325260-16bd-483c-b42f-fb4a638f05e5.jpg",
+        "title": "Badezimmer",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/48ca8709-6004-4254-a430-afb27a69d901/akafoe_bochum_74532075-40ca-45a6-85e2-47377878a3c2.jpg",
+        "title": "Benölkenplatz 3",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Dennis Bauch",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-09-03",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-08-09T15:00:19+00:00"
+  }
+}
