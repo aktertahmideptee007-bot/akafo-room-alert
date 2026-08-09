@@ -192,7 +192,6 @@ def main():
 
     print("Checking AKAFÖ...")
 
-    print("Sending Telegram test...")
     
 
     try:
