@@ -193,13 +193,7 @@ def main():
     print("Checking AKAFÖ...")
 
     print("Sending Telegram test...")
-
-    send_telegram_message(
-    "✅ AKAFÖ monitor test successful!\n\n"
-    "Your Telegram alerts are working."
-    )
-
-    print("Telegram test sent.")
+    
 
     try:
 
