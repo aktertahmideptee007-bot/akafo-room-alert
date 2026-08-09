@@ -1,6 +1,9 @@
 import json
 import os
+from datetime import datetime
+
 import requests
+
 
 # ============================================================
 # CONFIGURATION
@@ -12,8 +15,6 @@ TELEGRAM_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 STATE_FILE = "akafo_state.json"
-
-AKAFÖ_URL = "https://www.akafoe.de/wohnen/wohnanlagen/freie-zimmer"
 
 
 # ============================================================
@@ -39,7 +40,7 @@ def send_telegram_message(message):
 
 
 # ============================================================
-# GET HOUSING DATA
+# GET AVAILABLE LISTINGS
 # ============================================================
 
 def get_available_listings():
@@ -87,16 +88,28 @@ def load_state():
         return {}
 
     try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
+
+        with open(
+            STATE_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
             return json.load(f)
 
     except Exception:
+
         return {}
 
 
 def save_state(state):
 
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
+    with open(
+        STATE_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
         json.dump(
             state,
             f,
@@ -137,6 +150,7 @@ def format_listing_message(listing):
     )
 
     size = details.get("size")
+
     rooms = details.get("rooms")
 
     availability = listing.get(
@@ -160,7 +174,7 @@ def format_listing_message(listing):
         f"📅 Available from: {available_from}\n"
         "\n"
         "🔗 Open AKAFÖ:\n"
-        f"{AKAFÖ_URL}"
+        "https://www.akafoe.de/wohnen/wohnanlagen/freie-zimmer"
     )
 
     return message
@@ -179,11 +193,12 @@ def main():
     print("Checking AKAFÖ...")
 
     try:
+
         current = get_available_listings()
 
     except Exception as e:
 
-        print("Could not access AKAFÖ API:")
+        print("ERROR: Could not access AKAFÖ API.")
         print(e)
 
         raise
@@ -194,32 +209,30 @@ def main():
 
     previous = load_state()
 
-    # ========================================================
+    # --------------------------------------------------------
     # FIRST RUN
-    # ========================================================
+    # --------------------------------------------------------
 
     if not previous:
 
         print()
         print("First run detected.")
-        print(
-            "Saving current listings without sending alerts."
-        )
+        print("Saving current listings without sending alerts.")
 
         save_state(current)
 
         return
 
-    # ========================================================
-    # DETECT NEW LISTINGS
-    # ========================================================
+    # --------------------------------------------------------
+    # CHECK FOR NEW LISTINGS
+    # --------------------------------------------------------
 
     new_ids = set(current) - set(previous)
 
     if new_ids:
 
         print(
-            f"Found {len(new_ids)} new listing(s)!"
+            f"🚨 Found {len(new_ids)} new listing(s)!"
         )
 
         for listing_id in new_ids:
@@ -230,35 +243,31 @@ def main():
                 listing
             )
 
-            try:
+            print(
+                "Sending Telegram alert:",
+                listing.get("title")
+            )
 
-                send_telegram_message(message)
+            send_telegram_message(message)
 
-                print(
-                    "Telegram alert sent:",
-                    listing.get("title")
-                )
-
-            except Exception as e:
-
-                print(
-                    "Telegram error:",
-                    e
-                )
-
-                raise
+            print("Telegram alert sent successfully.")
 
     else:
 
-        print("No new listings.")
+        print(
+            f"No new listings. Available: {len(current)}"
+        )
 
-    # ========================================================
-    # SAVE CURRENT STATE
-    # ========================================================
-
+    # Save latest state
     save_state(current)
 
-    print("Check completed.")
+    print()
+    print(
+        "Check completed:",
+        datetime.now().strftime(
+            "%Y-%m-%d %H:%M:%S"
+        )
+    )
 
 
 # ============================================================
