@@ -16,8 +16,8 @@
     "details": {
       "size": "54.00",
       "rooms": "1.0",
-      "rent": "383.00",
-      "rent_total": "383.00",
+      "rent": "646.00",
+      "rent_total": "646.00",
       "rent_range": "646",
       "type": "apartment"
     },
@@ -95,7 +95,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-09T15:00:19+00:00"
+    "updated_at": "2026-08-10T09:00:43+00:00"
   },
   "e5d61a44-0122-4683-9e66-a1bfdc73efae": {
     "id": "e5d61a44-0122-4683-9e66-a1bfdc73efae",
@@ -187,7 +187,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-09T15:00:19+00:00"
+    "updated_at": "2026-08-10T09:00:44+00:00"
   },
   "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
     "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
@@ -279,7 +279,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-09T15:00:19+00:00"
+    "updated_at": "2026-08-10T09:00:43+00:00"
   },
   "48ca8709-6004-4254-a430-afb27a69d901": {
     "id": "48ca8709-6004-4254-a430-afb27a69d901",
@@ -353,6 +353,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-09T15:00:19+00:00"
+    "updated_at": "2026-08-10T09:00:44+00:00"
   }
 }
