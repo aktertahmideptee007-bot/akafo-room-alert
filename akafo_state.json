@@ -1,4 +1,102 @@
 {
+  "0ab06794-4d78-448f-b3b6-e142aaa8e7ca": {
+    "id": "0ab06794-4d78-448f-b3b6-e142aaa8e7ca",
+    "object_id": "582-Sammelobjekt",
+    "title": "Eulenbaumstraße 243-253: 2-Raum-Wohnung für Paare",
+    "description": "",
+    "address": {
+      "street": "Eulenbaumstraße",
+      "house_number": "243-253",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Eulenbaumstraße 243-253, 44801 Bochum"
+    },
+    "details": {
+      "size": "54.00",
+      "rooms": "1.0",
+      "rent": "646.00",
+      "rent_total": "646.00",
+      "rent_range": "646",
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_a193fe5f-8ca1-4e1a-9065-10700a7cf64f.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_0a05c893-99f1-49cd-95a8-e09a50e31e03.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_2196c814-862d-47e0-b2cf-feb42b700192.jpg",
+        "title": "Zimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_d8936fd4-aaa1-4fa7-9014-36e2e0902715.jpg",
+        "title": "Zimmer (4)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_88735030-b265-4a30-af07-bf0566e33ce1.jpg",
+        "title": "Zimmer (5)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_c97c9175-99d1-4b22-9555-0087ee2e5223.jpg",
+        "title": "Küche",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_ec761d15-cc8d-4242-aa68-0880063d98c4.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_e07f5f4b-2d7b-487e-a1e4-7aa638456e20.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_be66cd2c-6cfa-4ae6-a9f0-ce5c061f11dd.jpg",
+        "title": "Badezimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ab06794-4d78-448f-b3b6-e142aaa8e7ca/akafoe_bochum_a66e4a8b-c78f-4bc1-96a1-c758e80f7ab5.jpg",
+        "title": "Eulenbaumstr. 243-253",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-09-16",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-08-11T11:00:27+00:00"
+  },
   "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
     "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
     "object_id": "588-Sammelobjekt",
@@ -89,7 +187,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-10T15:01:01+00:00"
+    "updated_at": "2026-08-11T11:00:26+00:00"
   },
   "e5d61a44-0122-4683-9e66-a1bfdc73efae": {
     "id": "e5d61a44-0122-4683-9e66-a1bfdc73efae",
@@ -181,7 +279,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-10T15:01:01+00:00"
+    "updated_at": "2026-08-11T11:00:27+00:00"
   },
   "48ca8709-6004-4254-a430-afb27a69d901": {
     "id": "48ca8709-6004-4254-a430-afb27a69d901",
@@ -255,6 +353,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-10T15:01:01+00:00"
+    "updated_at": "2026-08-11T11:00:27+00:00"
   }
 }
