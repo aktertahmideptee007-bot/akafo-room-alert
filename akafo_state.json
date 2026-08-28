@@ -19,6 +19,15 @@
       "rent": "0.00",
       "rent_total": "0.00",
       "rent_range": null,
+      "available_housing_types": [
+        "Zimmer_in_4er-WG_(unmöbliert)",
+        "Zimmer_in_3er-WG_(unmöbliert)",
+        "Zimmer_in_2er-WG_(unmöbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_der_Westfälischen_Hochschule_in_Gelsenkirchen"
+      ],
       "type": "apartment"
     },
     "features": [],
@@ -89,7 +98,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-26T15:00:10+00:00"
+    "updated_at": "2026-08-27T16:00:13+00:00"
   },
   "48ca8709-6004-4254-a430-afb27a69d901": {
     "id": "48ca8709-6004-4254-a430-afb27a69d901",
@@ -111,6 +120,8 @@
       "rent": "0.00",
       "rent_total": "0.00",
       "rent_range": "270,00 - 370,00 EUR",
+      "available_housing_types": [],
+      "housing_offer_for": [],
       "type": "apartment"
     },
     "features": [],
@@ -163,7 +174,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-26T15:00:10+00:00"
+    "updated_at": "2026-08-27T16:00:13+00:00"
   },
   "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
     "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
@@ -185,6 +196,15 @@
       "rent": "0.00",
       "rent_total": "0.00",
       "rent_range": "370,00 EUR",
+      "available_housing_types": [
+        "Apartment_(möbliert)",
+        "Zimmer_in_2er-WG_(unmöbliert)",
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_der_Hochschule_Bochum_in_Heiligenhaus"
+      ],
       "type": "apartment"
     },
     "features": [],
@@ -255,6 +275,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-08-26T15:00:09+00:00"
+    "updated_at": "2026-08-27T16:00:13+00:00"
   }
 }
