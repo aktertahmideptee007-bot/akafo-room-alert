@@ -96,7 +96,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-01T13:00:16+00:00"
+    "updated_at": "2026-09-01T15:00:15+00:00"
   },
   "034aba90-5901-40ec-a896-b821a7d50244": {
     "id": "034aba90-5901-40ec-a896-b821a7d50244",
@@ -195,7 +195,111 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-01T13:00:17+00:00"
+    "updated_at": "2026-09-01T15:00:16+00:00"
+  },
+  "985aebb8-86e0-4b96-b19a-0e00570ada47": {
+    "id": "985aebb8-86e0-4b96-b19a-0e00570ada47",
+    "object_id": "583-Sammelobjekt",
+    "title": "Markstr. 105: Zimmer in 2er-WG",
+    "description": "",
+    "address": {
+      "street": "Markstraße",
+      "house_number": "105",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Markstraße 105, 44801 Bochum"
+    },
+    "details": {
+      "size": "11.00",
+      "rooms": "1.0",
+      "rent": "0.00",
+      "rent_total": "0.00",
+      "rent_range": "339-361",
+      "available_housing_types": [
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_751be43f-287c-484c-8fc1-e6992f401ab2.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_11143a86-7085-4f63-99fb-b14673fb10b9.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_44f89104-5700-48fb-b2f2-4067868b3fb7.jpg",
+        "title": "Zimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_99895df5-b089-4174-98cd-b9e9aad1c82c.jpg",
+        "title": "Zimmer (4)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_1e136483-d965-412d-822e-1768a6e43227.jpg",
+        "title": "Zimmer (5)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_52e55f96-1575-41d5-8e09-0d9dec56c664.jpg",
+        "title": "Zimmer (6)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_299f1e7e-6d94-49ad-aefb-1cdd1c56e131.jpg",
+        "title": "Zimmer (7)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_6273a07f-dc39-43ff-9b7d-aa3044d9f3ad.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_bbe8c8e6-1301-4d0a-bf63-e837b1a6d33e.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/985aebb8-86e0-4b96-b19a-0e00570ada47/akafoe_bochum_1b3d8be4-3cb3-4f09-98d4-2f65cc8b90a9.jpg",
+        "title": "Markstr. 105",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-10-01",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-09-01T15:00:15+00:00"
   },
   "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
     "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
@@ -295,7 +399,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-01T13:00:16+00:00"
+    "updated_at": "2026-09-01T15:00:15+00:00"
   },
   "e5d61a44-0122-4683-9e66-a1bfdc73efae": {
     "id": "e5d61a44-0122-4683-9e66-a1bfdc73efae",
@@ -396,7 +500,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-01T13:00:16+00:00"
+    "updated_at": "2026-09-01T15:00:16+00:00"
   },
   "48ca8709-6004-4254-a430-afb27a69d901": {
     "id": "48ca8709-6004-4254-a430-afb27a69d901",
@@ -477,6 +581,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-01T13:00:16+00:00"
+    "updated_at": "2026-09-01T15:00:16+00:00"
   }
 }
