@@ -1,202 +1,4 @@
 {
-  "4be4ae01-3eb2-4168-bab3-c158fb789ed6": {
-    "id": "4be4ae01-3eb2-4168-bab3-c158fb789ed6",
-    "object_id": "551-Sammelobjekt",
-    "title": "Laerholzstraße 80",
-    "description": "",
-    "address": {
-      "street": "Laerholzstraße",
-      "house_number": "80",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Laerholzstraße 80, 44801 Bochum"
-    },
-    "details": {
-      "size": "0.00",
-      "rooms": "1.0",
-      "rent": "0.00",
-      "rent_total": "0.00",
-      "rent_range": "621,00-665,00",
-      "available_housing_types": [
-        "2-Raum-Wohnung_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Studierende_einer_Hochschule_in_Bochum",
-        "2-Personen-Haushalt"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_10287782-6da9-432e-9c88-9f094a7cd08c.jpg",
-        "title": "Zimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_9a415d6e-754f-4590-b6e0-9c8e1dd8b746.jpg",
-        "title": "Zimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_ba4fbb35-27e6-4479-9d73-b4c3a75c831d.jpg",
-        "title": "Zimmer (3)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_d3bab409-8b3e-4280-8645-b3cf3a10141e.jpg",
-        "title": "Zimmer (4)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_b459b364-6194-463a-b3b6-4c30bff5a63b.jpg",
-        "title": "Küche (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_56b9d8fa-3f82-474a-994d-6370e1cc2477.jpg",
-        "title": "Küche (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_64e8a07e-7d3f-4cf8-ae5b-9b6bae5b4d95.jpg",
-        "title": "Badezimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_8967f704-e638-40e3-9bb0-1f133db8c54b.jpg",
-        "title": "Badezimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/4be4ae01-3eb2-4168-bab3-c158fb789ed6/akafoe_bochum_b68e4ca9-5aef-43f2-b623-b506e88a0bd7.jpg",
-        "title": "Laerholzstr. 80",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Dennis Bauch",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": null,
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-09-02T15:00:13+00:00"
-  },
-  "034aba90-5901-40ec-a896-b821a7d50244": {
-    "id": "034aba90-5901-40ec-a896-b821a7d50244",
-    "object_id": "580-Sammelobjekt",
-    "title": "Glücksburger Straße 27-41",
-    "description": "",
-    "address": {
-      "street": "Glücksburger Straße",
-      "house_number": "27-41",
-      "postal_code": "44799",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Glücksburger Straße 27-41, 44799 Bochum"
-    },
-    "details": {
-      "size": "0.00",
-      "rooms": "1.0",
-      "rent": "0.00",
-      "rent_total": "0.00",
-      "rent_range": "335,00-400,00",
-      "available_housing_types": [
-        "Einzelzimmer_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Einzelperson",
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_490d82a2-d0d7-441d-80a4-580518cb946d.jpg",
-        "title": "Badezimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_722f0aae-94a5-4ddb-9e36-e8584b37eb44.jpg",
-        "title": "Zimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_16cf2c4d-1d73-4236-aea8-b6d760bda4a4.jpg",
-        "title": "Zimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_b0fcfbdb-ccfd-4961-baed-2ca507d2e5f7.jpg",
-        "title": "Zimmer (3)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_aa007a2c-1183-40e8-b2c4-642925c030bc.jpg",
-        "title": "Zimmer (4)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_3d3c9735-37ff-46ca-8877-e0c741acd78b.jpg",
-        "title": "Küche (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_1aeaa5ee-584c-4669-9a76-caea24029cc5.jpg",
-        "title": "Küche (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_269e646f-e8f4-4352-8f95-69f61fe44dec.jpg",
-        "title": "Badezimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/034aba90-5901-40ec-a896-b821a7d50244/akafoe_bochum_d83f5c04-79a4-4fba-b9eb-c98c73922bfc.jpg",
-        "title": "Glücksburger Str. 27-41",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Dennis Bauch",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": null,
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-09-02T15:00:14+00:00"
-  },
   "66fbfe8e-f1e9-48db-9466-d361ec3e9178": {
     "id": "66fbfe8e-f1e9-48db-9466-d361ec3e9178",
     "object_id": "588-Sammelobjekt",
@@ -295,7 +97,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-02T15:00:13+00:00"
+    "updated_at": "2026-09-03T09:00:50+00:00"
   },
   "e5d61a44-0122-4683-9e66-a1bfdc73efae": {
     "id": "e5d61a44-0122-4683-9e66-a1bfdc73efae",
@@ -396,7 +198,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-02T15:00:14+00:00"
+    "updated_at": "2026-09-03T09:01:01+00:00"
   },
   "48ca8709-6004-4254-a430-afb27a69d901": {
     "id": "48ca8709-6004-4254-a430-afb27a69d901",
@@ -477,6 +279,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-09-02T15:00:13+00:00"
+    "updated_at": "2026-09-03T09:00:59+00:00"
   }
 }
