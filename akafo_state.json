@@ -1,1 +1,55 @@
-{}
+{
+  "a0eec5e3-48c7-413f-82ab-51d688535135": {
+    "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
+    "object_id": "578-Sammelobjekt",
+    "title": "Wodanstraße 7a - 7f - Wohnungsangebot für Studierende der Westfälischen Hochschule in Gelsenkirchen",
+    "description": "",
+    "address": {
+      "street": "Wodanstraße",
+      "house_number": "7a - 7f",
+      "postal_code": "45891",
+      "city": "Gelsenkirchen",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Wodanstraße 7a - 7f, 45891 Gelsenkirchen"
+    },
+    "details": {
+      "size": "0.00",
+      "rooms": "1.0",
+      "rent": "0.00",
+      "rent_total": "0.00",
+      "rent_range": null,
+      "available_housing_types": [
+        "Zimmer_in_4er-WG_(unmöbliert)",
+        "Zimmer_in_3er-WG_(unmöbliert)",
+        "Zimmer_in_2er-WG_(unmöbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_der_Westfälischen_Hochschule_in_Gelsenkirchen"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/a0eec5e3-48c7-413f-82ab-51d688535135/akafoe_bochum_73c0fe03-b540-46ff-8e92-4b84474df1a3.jpg",
+        "title": "Wodanstraße 7a-7f",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Dennis Bauch",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": null,
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-10-08T13:00:04+00:00"
+  }
+}
