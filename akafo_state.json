@@ -1,103 +1,4 @@
 {
-  "00bf0a10-221b-4de0-aef8-429c9187eef4": {
-    "id": "00bf0a10-221b-4de0-aef8-429c9187eef4",
-    "object_id": "559-Sammelobjekt",
-    "title": "Zimmer in Kollegstraße 2 - Mietpreis: 327 €",
-    "description": "",
-    "address": {
-      "street": "Kollegstraße",
-      "house_number": "2",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Kollegstraße 2, 44801 Bochum"
-    },
-    "details": {
-      "size": "17.00",
-      "rooms": "1.0",
-      "rent": "327.00",
-      "rent_total": "327.00",
-      "rent_range": "327,00 EUR",
-      "available_housing_types": [
-        "Apartment_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Einzelperson",
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_83fe2139-b3d2-4231-bda1-32b7d2ec7890.jpg",
-        "title": "Zimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_3d0a2b8c-8d20-47c1-a020-beacd9eeb0ea.jpg",
-        "title": "Zimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_588e1dfc-990e-4698-ad4a-ff7c6141519c.jpg",
-        "title": "Zimmer (3)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_41da507a-552b-4268-ae04-d3d90665436b.jpg",
-        "title": "Zimmer (4)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_4b292edc-b49d-4de7-91eb-904407c28b88.jpg",
-        "title": "Zimmer (5)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_b2fe18b1-97a5-4fb6-a260-27f952a9baa8.jpg",
-        "title": "Zimmer (6)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_84146099-f58b-4923-9560-3629cf4ecaa4.jpg",
-        "title": "Zimmer (7)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_575ae2a1-0da4-4155-a112-f0d234235d6e.jpg",
-        "title": "Badezimmer",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/00bf0a10-221b-4de0-aef8-429c9187eef4/akafoe_bochum_bebb816b-35b3-415e-864d-b6a7d7d3254b.jpg",
-        "title": "Kollegstraße 2",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Birgit Clausmeyer",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-11-01",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-10-19T10:00:15+00:00"
-  },
   "0ec89c88-98ad-4d21-aeae-3cdc705615e4": {
     "id": "0ec89c88-98ad-4d21-aeae-3cdc705615e4",
     "object_id": "580-Sammelobjekt",
@@ -195,7 +96,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-10-19T10:00:15+00:00"
+    "updated_at": "2026-10-19T14:00:18+00:00"
   },
   "9103ee3a-c990-44e8-9083-fe2803e27a3d": {
     "id": "9103ee3a-c990-44e8-9083-fe2803e27a3d",
@@ -247,7 +148,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-10-19T10:00:16+00:00"
+    "updated_at": "2026-10-19T14:00:18+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -300,6 +201,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-10-19T10:00:15+00:00"
+    "updated_at": "2026-10-19T14:00:18+00:00"
   }
 }
