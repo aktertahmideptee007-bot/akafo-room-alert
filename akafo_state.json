@@ -1,54 +1,4 @@
 {
-  "c52f28d3-e5ce-4b42-975d-c09afbb98add": {
-    "id": "c52f28d3-e5ce-4b42-975d-c09afbb98add",
-    "object_id": "583-Sammelobjekt",
-    "title": "Markstr. 105 - Apartment",
-    "description": "",
-    "address": {
-      "street": "Markstraße",
-      "house_number": "105",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Markstraße 105, 44801 Bochum"
-    },
-    "details": {
-      "size": "16.00",
-      "rooms": "1.0",
-      "rent": "363.00",
-      "rent_total": "363.00",
-      "rent_range": "363",
-      "available_housing_types": [
-        "Apartment_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/c52f28d3-e5ce-4b42-975d-c09afbb98add/akafoe_bochum_1b3d8be4-3cb3-4f09-98d4-2f65cc8b90a9.jpg",
-        "title": "Markstr. 105",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Kerstin Möller",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-12-01",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-03T07:00:25+00:00"
-  },
   "214cf75c-09d3-44f4-a5b7-25f27832f517": {
     "id": "214cf75c-09d3-44f4-a5b7-25f27832f517",
     "object_id": "515-Sammelobjekt",
@@ -100,57 +50,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-03T07:00:26+00:00"
-  },
-  "b925d1c3-ded5-46ff-b628-596d0d7ccc14": {
-    "id": "b925d1c3-ded5-46ff-b628-596d0d7ccc14",
-    "object_id": "579-Sammelobjekt",
-    "title": "Overbergstraße 15 - Zimmer in 2er-WG",
-    "description": "",
-    "address": {
-      "street": "Overbergstraße",
-      "house_number": "15",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Overbergstraße 15, 44801 Bochum"
-    },
-    "details": {
-      "size": "24.00",
-      "rooms": "1.0",
-      "rent": "345.00",
-      "rent_total": "345.00",
-      "rent_range": "345",
-      "available_housing_types": [
-        "Zimmer_in_2er-WG_(unmöbliert)"
-      ],
-      "housing_offer_for": [
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b925d1c3-ded5-46ff-b628-596d0d7ccc14/akafoe_bochum_e40d58ec-1a48-41b5-8bae-f92f98ce24dc.jpg",
-        "title": "Overbergstr. 15",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Kerstin Möller",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-11-16",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-03T07:00:26+00:00"
+    "updated_at": "2026-11-03T15:00:18+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -203,6 +103,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-03T07:00:25+00:00"
+    "updated_at": "2026-11-03T15:00:17+00:00"
   }
 }
