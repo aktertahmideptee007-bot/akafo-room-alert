@@ -1,4 +1,110 @@
 {
+  "b558f9cf-7d2d-4139-8794-9774be5b804a": {
+    "id": "b558f9cf-7d2d-4139-8794-9774be5b804a",
+    "object_id": "520-Sammelobjekt",
+    "title": "Apartment in Querenburger Höhe 97 - Preisspanne: 394 €",
+    "description": "",
+    "address": {
+      "street": "Querenburger Höhe",
+      "house_number": "97",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Querenburger Höhe 97, 44801 Bochum"
+    },
+    "details": {
+      "size": "17.00",
+      "rooms": "1.0",
+      "rent": "394.00",
+      "rent_total": "394.00",
+      "rent_range": "394,00 Euro",
+      "available_housing_types": [
+        "Apartment_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [
+      "Dusche"
+    ],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b558f9cf-7d2d-4139-8794-9774be5b804a/akafoe_bochum_310d2287-028d-449a-aa78-d180eb5cc41d.jpg",
+        "title": "fdfd5",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Birgit Clausmeyer",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": null,
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-04T15:00:20+00:00"
+  },
+  "dff82e16-e836-4b53-a6be-99aeebb5620b": {
+    "id": "dff82e16-e836-4b53-a6be-99aeebb5620b",
+    "object_id": "510-Sammelobjekt",
+    "title": "Stiepeler Straße 71a",
+    "description": "",
+    "address": {
+      "street": "Stiepeler Straße",
+      "house_number": "71a",
+      "postal_code": "44799",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Stiepeler Straße 71a, 44799 Bochum"
+    },
+    "details": {
+      "size": "17.00",
+      "rooms": "1.0",
+      "rent": "341.00",
+      "rent_total": "341.00",
+      "rent_range": "341,00 €",
+      "available_housing_types": [
+        "Apartment_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [
+      "Dusche"
+    ],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/dff82e16-e836-4b53-a6be-99aeebb5620b/akafoe_bochum_1f2572fc-602e-420c-9b3a-f58ff0637c8b.jpg",
+        "title": "Stiepeler Str. 71a",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Marcel Bierwirth",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2027-01-06",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-04T15:00:20+00:00"
+  },
   "214cf75c-09d3-44f4-a5b7-25f27832f517": {
     "id": "214cf75c-09d3-44f4-a5b7-25f27832f517",
     "object_id": "515-Sammelobjekt",
@@ -50,7 +156,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-04T07:00:20+00:00"
+    "updated_at": "2026-11-04T15:00:20+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -103,6 +209,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-04T07:00:20+00:00"
+    "updated_at": "2026-11-04T15:00:19+00:00"
   }
 }
