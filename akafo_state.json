@@ -33,8 +33,8 @@
     ],
     "images": [
       {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b558f9cf-7d2d-4139-8794-9774be5b804a/akafoe_bochum_310d2287-028d-449a-aa78-d180eb5cc41d.jpg",
-        "title": "fdfd5",
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b558f9cf-7d2d-4139-8794-9774be5b804a/akafoe_bochum_8aa6ae03-bdbb-4de2-b6b4-2ceea6e7ae39.png",
+        "title": "QH 97",
         "type": "image",
         "is_main": true
       }
@@ -50,7 +50,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-05T08:00:05+00:00"
+    "updated_at": "2026-11-05T15:00:22+00:00"
   },
   "dff82e16-e836-4b53-a6be-99aeebb5620b": {
     "id": "dff82e16-e836-4b53-a6be-99aeebb5620b",
@@ -103,60 +103,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-05T08:00:05+00:00"
-  },
-  "214cf75c-09d3-44f4-a5b7-25f27832f517": {
-    "id": "214cf75c-09d3-44f4-a5b7-25f27832f517",
-    "object_id": "515-Sammelobjekt",
-    "title": "Auf der Papenburg 17-21 - 2,5-Raum-Wohnung für Paare",
-    "description": "möbliert",
-    "address": {
-      "street": "Auf der Papenburg",
-      "house_number": "9-15",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Auf der Papenburg 9-15, 44801 Bochum"
-    },
-    "details": {
-      "size": "42.40",
-      "rooms": "2.5",
-      "rent": "625.00",
-      "rent_total": "625.00",
-      "rent_range": "625",
-      "available_housing_types": [
-        "2,5-Raum-Wohnung_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [
-      "WG geeignet",
-      "möbliert"
-    ],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/214cf75c-09d3-44f4-a5b7-25f27832f517/akafoe_bochum_22b63b00-029d-4705-9988-70e3541bd2c7.jpg",
-        "title": "Auf der Papenburg 17-21",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Kerstin Möller",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-12-01",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-05T08:00:05+00:00"
+    "updated_at": "2026-11-05T15:00:22+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -209,6 +156,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-05T08:00:05+00:00"
+    "updated_at": "2026-11-05T15:00:21+00:00"
   }
 }
