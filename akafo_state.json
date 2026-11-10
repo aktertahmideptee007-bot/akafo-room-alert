@@ -1,4 +1,104 @@
 {
+  "055ca36b-3840-4559-8ee8-462e68d3fa6a": {
+    "id": "055ca36b-3840-4559-8ee8-462e68d3fa6a",
+    "object_id": "582-Sammelobjekt",
+    "title": "Eulenbaumstraße 243-253 - Apartment",
+    "description": "",
+    "address": {
+      "street": "Eulenbaumstraße",
+      "house_number": "243-253",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Eulenbaumstraße 243-253, 44801 Bochum"
+    },
+    "details": {
+      "size": "20.00",
+      "rooms": "1.0",
+      "rent": "383.00",
+      "rent_total": "383.00",
+      "rent_range": "383-399",
+      "available_housing_types": [
+        "Apartment_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/055ca36b-3840-4559-8ee8-462e68d3fa6a/akafoe_bochum_a66e4a8b-c78f-4bc1-96a1-c758e80f7ab5.jpg",
+        "title": "Eulenbaumstr. 243-253",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-12-01",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-10T15:00:05+00:00"
+  },
+  "6be948b0-cc3c-479b-bb61-63d449e5833f": {
+    "id": "6be948b0-cc3c-479b-bb61-63d449e5833f",
+    "object_id": "583-Sammelobjekt",
+    "title": "Markstr. 105 - WG-Zimmer",
+    "description": "",
+    "address": {
+      "street": "Markstraße",
+      "house_number": "105",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Markstraße 105, 44801 Bochum"
+    },
+    "details": {
+      "size": "16.00",
+      "rooms": "1.0",
+      "rent": "339.00",
+      "rent_total": "339.00",
+      "rent_range": "339",
+      "available_housing_types": [
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/6be948b0-cc3c-479b-bb61-63d449e5833f/akafoe_bochum_1b3d8be4-3cb3-4f09-98d4-2f65cc8b90a9.jpg",
+        "title": "Markstr. 105",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-12-01",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-10T15:00:05+00:00"
+  },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
     "object_id": "578-Sammelobjekt",
@@ -50,6 +150,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-10T09:09:41+00:00"
+    "updated_at": "2026-11-10T15:00:05+00:00"
   }
 }
