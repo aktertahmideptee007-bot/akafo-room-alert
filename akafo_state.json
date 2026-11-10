@@ -1,57 +1,4 @@
 {
-  "b558f9cf-7d2d-4139-8794-9774be5b804a": {
-    "id": "b558f9cf-7d2d-4139-8794-9774be5b804a",
-    "object_id": "520-Sammelobjekt",
-    "title": "Apartment in Querenburger Höhe 97 - Preisspanne: 394 €",
-    "description": "",
-    "address": {
-      "street": "Querenburger Höhe",
-      "house_number": "97",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Querenburger Höhe 97, 44801 Bochum"
-    },
-    "details": {
-      "size": "17.00",
-      "rooms": "1.0",
-      "rent": "394.00",
-      "rent_total": "394.00",
-      "rent_range": "394,00 Euro",
-      "available_housing_types": [
-        "Apartment_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Einzelperson",
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [
-      "Dusche"
-    ],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b558f9cf-7d2d-4139-8794-9774be5b804a/akafoe_bochum_8aa6ae03-bdbb-4de2-b6b4-2ceea6e7ae39.png",
-        "title": "QH 97",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Birgit Clausmeyer",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": null,
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-09T15:05:33+00:00"
-  },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
     "object_id": "578-Sammelobjekt",
@@ -103,6 +50,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-09T15:05:32+00:00"
+    "updated_at": "2026-11-10T09:09:41+00:00"
   }
 }
