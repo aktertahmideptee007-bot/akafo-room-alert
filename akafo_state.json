@@ -1,4 +1,54 @@
 {
+  "6be948b0-cc3c-479b-bb61-63d449e5833f": {
+    "id": "6be948b0-cc3c-479b-bb61-63d449e5833f",
+    "object_id": "583-Sammelobjekt",
+    "title": "Markstr. 105 - WG-Zimmer",
+    "description": "",
+    "address": {
+      "street": "Markstraße",
+      "house_number": "105",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Markstraße 105, 44801 Bochum"
+    },
+    "details": {
+      "size": "16.00",
+      "rooms": "1.0",
+      "rent": "384.00",
+      "rent_total": "384.00",
+      "rent_range": "384",
+      "available_housing_types": [
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/6be948b0-cc3c-479b-bb61-63d449e5833f/akafoe_bochum_1b3d8be4-3cb3-4f09-98d4-2f65cc8b90a9.jpg",
+        "title": "Markstr. 105",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-12-01",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-11T15:00:07+00:00"
+  },
   "6c92d983-091e-4e6f-8fd6-1f20e71eeb77": {
     "id": "6c92d983-091e-4e6f-8fd6-1f20e71eeb77",
     "object_id": "551-Sammelobjekt",
@@ -49,7 +99,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-11T08:00:04+00:00"
+    "updated_at": "2026-11-11T15:00:07+00:00"
   },
   "bf936072-7cdc-4144-87fb-4c15da424095": {
     "id": "bf936072-7cdc-4144-87fb-4c15da424095",
@@ -148,7 +198,60 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-11T08:00:04+00:00"
+    "updated_at": "2026-11-11T15:00:07+00:00"
+  },
+  "55ccb34e-f703-4991-bfcf-4c4b03e324c4": {
+    "id": "55ccb34e-f703-4991-bfcf-4c4b03e324c4",
+    "object_id": "515-Sammelobjekt",
+    "title": "Auf der Papenburg 17-21 - WG-Zimmer",
+    "description": "möbliert",
+    "address": {
+      "street": "Auf der Papenburg",
+      "house_number": "17-21",
+      "postal_code": "44801",
+      "city": "Bochum",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Auf der Papenburg 17-21, 44801 Bochum"
+    },
+    "details": {
+      "size": "12.00",
+      "rooms": "1.0",
+      "rent": "358.00",
+      "rent_total": "358.00",
+      "rent_range": "358",
+      "available_housing_types": [
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Studierende_einer_Hochschule_in_Bochum"
+      ],
+      "type": "apartment"
+    },
+    "features": [
+      "WG geeignet",
+      "möbliert"
+    ],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/55ccb34e-f703-4991-bfcf-4c4b03e324c4/akafoe_bochum_22b63b00-029d-4705-9988-70e3541bd2c7.jpg",
+        "title": "Auf der Papenburg 17-21",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Kerstin Möller",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": "2026-12-01",
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-11T15:00:07+00:00"
   },
   "055ca36b-3840-4559-8ee8-462e68d3fa6a": {
     "id": "055ca36b-3840-4559-8ee8-462e68d3fa6a",
@@ -198,57 +301,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-11T08:00:04+00:00"
-  },
-  "6be948b0-cc3c-479b-bb61-63d449e5833f": {
-    "id": "6be948b0-cc3c-479b-bb61-63d449e5833f",
-    "object_id": "583-Sammelobjekt",
-    "title": "Markstr. 105 - WG-Zimmer",
-    "description": "",
-    "address": {
-      "street": "Markstraße",
-      "house_number": "105",
-      "postal_code": "44801",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Markstraße 105, 44801 Bochum"
-    },
-    "details": {
-      "size": "16.00",
-      "rooms": "1.0",
-      "rent": "339.00",
-      "rent_total": "339.00",
-      "rent_range": "339",
-      "available_housing_types": [
-        "Zimmer_in_2er-WG_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/6be948b0-cc3c-479b-bb61-63d449e5833f/akafoe_bochum_1b3d8be4-3cb3-4f09-98d4-2f65cc8b90a9.jpg",
-        "title": "Markstr. 105",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Kerstin Möller",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-12-01",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-11T08:00:04+00:00"
+    "updated_at": "2026-11-11T15:00:07+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -301,6 +354,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-11T08:00:04+00:00"
+    "updated_at": "2026-11-11T15:00:07+00:00"
   }
 }
