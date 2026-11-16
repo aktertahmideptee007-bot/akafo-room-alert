@@ -1,57 +1,4 @@
 {
-  "0ba4b8b7-1907-40b4-93e2-2517dab8e924": {
-    "id": "0ba4b8b7-1907-40b4-93e2-2517dab8e924",
-    "object_id": "587-Sammelobjekt",
-    "title": "Zimmer in Laerheidestraße 4-8 (Siepenfeld)",
-    "description": "",
-    "address": {
-      "street": "Laerheidestraße",
-      "house_number": "4-8",
-      "postal_code": "44799",
-      "city": "Bochum",
-      "district": "",
-      "country": "DEU",
-      "full_address": "Laerheidestraße 4-8, 44799 Bochum"
-    },
-    "details": {
-      "size": "22.00",
-      "rooms": "1.0",
-      "rent": "380.00",
-      "rent_total": "380.00",
-      "rent_range": "380,00 EUR",
-      "available_housing_types": [
-        "Apartment_(möbliert)"
-      ],
-      "housing_offer_for": [
-        "Einzelperson",
-        "Studierende_einer_Hochschule_in_Bochum"
-      ],
-      "type": "apartment"
-    },
-    "features": [
-      "Dusche"
-    ],
-    "images": [
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0ba4b8b7-1907-40b4-93e2-2517dab8e924/akafoe_bochum_cda108e4-d8e3-4a36-965d-d3b9ba3a0fcf.jpg",
-        "title": "Siepenfeld",
-        "type": "image",
-        "is_main": true
-      }
-    ],
-    "contact": {
-      "name": "Marcel Bierwirth",
-      "email": "akafoe-bochum@interessentenanfragen.de",
-      "phone": ""
-    },
-    "availability": {
-      "available_from": "2026-12-01",
-      "available": true,
-      "wbs_required": false,
-      "pets_allowed": false
-    },
-    "updated_at": "2026-11-16T07:15:32+00:00"
-  },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
     "object_id": "578-Sammelobjekt",
@@ -103,6 +50,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-16T07:11:22+00:00"
+    "updated_at": "2026-11-16T10:00:04+00:00"
   }
 }
