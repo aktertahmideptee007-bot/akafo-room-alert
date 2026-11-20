@@ -1,4 +1,103 @@
 {
+  "0148d75a-617f-451b-af5c-57d6e42186c8": {
+    "id": "0148d75a-617f-451b-af5c-57d6e42186c8",
+    "object_id": "588-Sammelobjekt",
+    "title": "Campusallee 4",
+    "description": "",
+    "address": {
+      "street": "Campusallee",
+      "house_number": "4",
+      "postal_code": "42579",
+      "city": "Heiligenhaus",
+      "district": "",
+      "country": "DEU",
+      "full_address": "Campusallee 4, 42579 Heiligenhaus"
+    },
+    "details": {
+      "size": "0.00",
+      "rooms": "1.0",
+      "rent": "370.00",
+      "rent_total": "370.00",
+      "rent_range": "370,00",
+      "available_housing_types": [
+        "Zimmer_in_2er-WG_(möbliert)"
+      ],
+      "housing_offer_for": [
+        "Einzelperson",
+        "Studierende_der_Hochschule_Bochum_in_Heiligenhaus"
+      ],
+      "type": "apartment"
+    },
+    "features": [],
+    "images": [
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_6ae2ada4-4fc7-43aa-b3ae-816a2680bd83.jpg",
+        "title": "Zimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_90994a09-adcd-4b21-8f84-98e14c07c1b1.jpg",
+        "title": "Zimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_c02ab108-23cd-48df-be7a-a2f983396556.jpg",
+        "title": "Küche (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_d285872b-16e5-4ae1-af84-33745980b533.jpg",
+        "title": "Küche (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_d8531f17-f716-4d35-a260-5081d027e5f8.jpg",
+        "title": "Küche (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_c8d22b4c-662d-4f5d-a5d9-1f784affa591.jpg",
+        "title": "Badezimmer (1)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_10a611c6-c4cb-4d74-931b-89967d3a005a.jpg",
+        "title": "Badezimmer (2)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_0fbecf07-a2ba-425e-b314-ed910462e81d.jpg",
+        "title": "Badezimmer (3)",
+        "type": "image",
+        "is_main": false
+      },
+      {
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/0148d75a-617f-451b-af5c-57d6e42186c8/akafoe_bochum_538eaead-c537-4a2f-8c1e-b615eed51bb0.jpg",
+        "title": "Campusalle 2-4",
+        "type": "image",
+        "is_main": true
+      }
+    ],
+    "contact": {
+      "name": "Dennis Bauch",
+      "email": "akafoe-bochum@interessentenanfragen.de",
+      "phone": ""
+    },
+    "availability": {
+      "available_from": null,
+      "available": true,
+      "wbs_required": false,
+      "pets_allowed": false
+    },
+    "updated_at": "2026-11-20T09:01:44+00:00"
+  },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
     "object_id": "578-Sammelobjekt",
@@ -50,6 +149,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-19T15:00:09+00:00"
+    "updated_at": "2026-11-20T09:01:21+00:00"
   }
 }
