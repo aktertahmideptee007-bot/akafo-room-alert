@@ -50,30 +50,30 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-26T15:00:29+00:00"
+    "updated_at": "2026-11-27T15:00:18+00:00"
   },
-  "2a0ea562-9099-46ce-a65a-e5bd130b926f": {
-    "id": "2a0ea562-9099-46ce-a65a-e5bd130b926f",
-    "object_id": "570-Sammelobjekt",
-    "title": "Zimmer in Laerholzstraße 7 - 13b - Preisspanne: 240 € - 329 €",
+  "b4b06969-62f9-4a6a-b39d-7c669f400db4": {
+    "id": "b4b06969-62f9-4a6a-b39d-7c669f400db4",
+    "object_id": "587-Sammelobjekt",
+    "title": "Zimmer in Laerheidestraße 4-8 (Siepenfeld)",
     "description": "",
     "address": {
-      "street": "Laerholzstraße",
-      "house_number": "7-13b",
-      "postal_code": "44801",
+      "street": "Laerheidestraße",
+      "house_number": "4-8",
+      "postal_code": "44799",
       "city": "Bochum",
       "district": "",
       "country": "DEU",
-      "full_address": "Laerholzstraße 7-13b, 44801 Bochum"
+      "full_address": "Laerheidestraße 4-8, 44799 Bochum"
     },
     "details": {
-      "size": "11.00",
+      "size": "22.00",
       "rooms": "1.0",
-      "rent": "0.00",
-      "rent_total": "0.00",
-      "rent_range": "348,00",
+      "rent": "404.00",
+      "rent_total": "404.00",
+      "rent_range": "404,00 EUR",
       "available_housing_types": [
-        "Zimmer_in_2er-WG_(unmöbliert)"
+        "Apartment_(möbliert)"
       ],
       "housing_offer_for": [
         "Einzelperson",
@@ -81,75 +81,29 @@
       ],
       "type": "apartment"
     },
-    "features": [],
+    "features": [
+      "Dusche"
+    ],
     "images": [
       {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_bcb1d77c-8769-4bc3-9423-71579b99c59f.jpg",
-        "title": "Zimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_8f8245bb-f13a-4dfd-828b-1fdeaf69f582.jpg",
-        "title": "Küche (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_2f201d5b-081e-48a4-9b24-1b45c382d4b5.jpg",
-        "title": "Küche (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_8bb74445-0396-4a54-b4ce-5ab8f1d36472.jpg",
-        "title": "Küche (3)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_42c41a5e-1023-40e2-b744-46767fb45ff2.jpg",
-        "title": "Küche (4)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_49771625-8988-4af2-b900-385faa91a34c.jpg",
-        "title": "Badezimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_585f31cc-ee4f-480f-8d7e-1165ff707d61.jpg",
-        "title": "Badezimmer (2)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_07f97b3e-a4d1-4a11-b8cb-d8d868bf0acd.jpg",
-        "title": "Zimmer (1)",
-        "type": "image",
-        "is_main": false
-      },
-      {
-        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/2a0ea562-9099-46ce-a65a-e5bd130b926f/akafoe_bochum_cf5584d2-c25a-401d-ad0d-c7aeeff23606.jpg",
-        "title": "Studidorf",
+        "url": "https://fsn1.your-objectstorage.com/akafoe-prod/housing/apartments/b4b06969-62f9-4a6a-b39d-7c669f400db4/akafoe_bochum_cda108e4-d8e3-4a36-965d-d3b9ba3a0fcf.jpg",
+        "title": "Siepenfeld",
         "type": "image",
         "is_main": true
       }
     ],
     "contact": {
-      "name": "Dennis Bauch",
+      "name": "Marcel Bierwirth",
       "email": "akafoe-bochum@interessentenanfragen.de",
       "phone": ""
     },
     "availability": {
-      "available_from": "2027-01-06",
+      "available_from": null,
       "available": true,
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-26T15:00:28+00:00"
+    "updated_at": "2026-11-27T15:00:18+00:00"
   },
   "408344e2-2920-49db-b912-8e2659a93b05": {
     "id": "408344e2-2920-49db-b912-8e2659a93b05",
@@ -200,7 +154,7 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-26T15:00:28+00:00"
+    "updated_at": "2026-11-27T15:00:18+00:00"
   },
   "a0eec5e3-48c7-413f-82ab-51d688535135": {
     "id": "a0eec5e3-48c7-413f-82ab-51d688535135",
@@ -253,6 +207,6 @@
       "wbs_required": false,
       "pets_allowed": false
     },
-    "updated_at": "2026-11-26T15:00:26+00:00"
+    "updated_at": "2026-11-27T15:00:17+00:00"
   }
 }
